@@ -1,0 +1,26 @@
+﻿body {
+    background-color: rgba(0, 0, 255, 0.3);
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+   
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: -1px;
+    bottom: -8px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+.form1 {
+    position: center;
+    white-space: nowrap;
+}
+
